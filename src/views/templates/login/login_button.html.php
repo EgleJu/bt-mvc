@@ -1,0 +1,1 @@
+<a href="<?= $url; ?>" class="uk-button uk-button-secondary uk-button-small"><?= $buttonVal; ?></a>

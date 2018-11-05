@@ -1,0 +1,13 @@
+{
+    "require":
+    [
+        "Auth.php",
+        "Language.php",
+        "Request.php",
+        "Response.php",
+        "Route.php",
+        "Sanitize.php",
+        "Translate.php",
+        "Message.php"
+    ]
+}

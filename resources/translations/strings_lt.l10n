@@ -1,0 +1,24 @@
+#
+# Vertimų failas
+# Formatas – [stringas] = [vertimas]
+#
+
+# Bendrieji
+Welcome = Sveiki
+Simple and Easy = Lengvai ir paprastai
+Submit = Pateikti
+
+# Titulinis
+Front page = Pradžia
+
+# Login/logout
+Please enter e-mail address = Įveskite el. pašto adresą
+Login = Prisijungti
+Authentification = Autentifikacija
+Logged in = Prisjungęs
+Logout = Atsijungti
+Logout performed = Atsijungta
+Please login = Prisijunkite
+Incorrect e-mail = Neteisingas el. pašto adresas
+Login success = Prisijungimas sėkmingas
+

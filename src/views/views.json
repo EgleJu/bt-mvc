@@ -1,0 +1,8 @@
+{
+    "require":
+    [
+        "LangSwitcher.php",
+        "LoginButton.php",
+        "DisplayMessages.php"
+    ]
+}

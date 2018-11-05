@@ -1,9 +1,14 @@
-DirectoryIndex index.php
-
-<IfModule mod_rewrite.c>
-SetEnv HTTP_REWRITE_ON
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^(.*)$ index.php [L] 
+<IfModule dir_module>
+    DirectoryIndex app.php index.php index.html
 </IfModule>
+<IfModule mod_rewrite.c>
+    SetEnv HTTP_REWRITE_ON
+    RewriteRule ^src/ - [F]
+    RewriteRule ^core/ - [F]
+    RewriteRule ^resources/ - [F]
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^(.*)$ app.php [L]
+</IfModule>
+

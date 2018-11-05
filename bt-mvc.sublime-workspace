@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"default",
+				"defaultAction"
+			],
+			[
+				"CORE",
+				"CORE_COMPONENTS_DIR"
+			],
+			[
+				"path",
+				"pathArray"
+			],
+			[
+				"lang",
+				"language"
+			],
+			[
+				"req",
+				"requestQuery"
+			],
+			[
+				"request",
+				"requestQuery"
+			],
+			[
+				"reques",
+				"requestQuery"
+			],
+			[
+				"link",
+				"linkVar"
+			],
+			[
+				"query",
+				"queryString"
+			],
+			[
+				"reque",
+				"requestLang"
+			],
+			[
+				"TRANSLATION",
+				"TRANSLATION_FILE_PATTERN"
+			],
+			[
+				"strt",
+				"strtr"
+			],
+			[
+				"BASE",
+				"BASE_TEMPLATE"
+			],
+			[
+				"PATH_",
+				"PATH_INFO"
+			],
+			[
+				"in",
+				"indexName"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"msg",
+				"msgType"
+			],
+			[
+				"static",
+				"staticUrl"
+			],
+			[
+				"bas",
+				"baseUrl"
+			],
+			[
+				"JSON_U",
+				"JSON_UNESCAPED_UNICODE"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"base",
+				"baseDir"
+			],
+			[
+				"require",
+				"require_once"
+			],
+			[
+				"action",
+				"actionPrefix"
+			],
+			[
+				"controller",
+				"controllerPrefix"
+			],
+			[
+				"http_",
+				"http_response_code"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"parse_",
+				"parse_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.MD",
+			"settings":
+			{
+				"buffer_size": 152,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "## BT-MVC"
+			}
+		},
+		{
+			"file": "core/lib/components/Auth.php",
+			"settings":
+			{
+				"buffer_size": 535,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/www/bt-mvc",
+		"/C/www/bt-mvc/core",
+		"/C/www/bt-mvc/core/lib",
+		"/C/www/bt-mvc/core/lib/components",
+		"/C/www/bt-mvc/resources",
+		"/C/www/bt-mvc/resources/translations"
+	],
+	"file_history":
+	[
+		"/C/www/bt-mvc/src/views/LangSwitcher.php",
+		"/C/www/bt-mvc/core/lib/components/Translate.php",
+		"/C/www/bt-mvc/core/kernel.php",
+		"/C/www/bt-mvc/resources/translations/strings_lt.l10n",
+		"/C/www/bt-mvc/src/views/templates/base.html.php",
+		"/C/www/bt-mvc/src/controllers/AuthController.php",
+		"/C/www/bt-mvc/src/controllers/LoginButton.php",
+		"/C/www/bt-mvc/src/settings.inc.php",
+		"/C/www/bt-mvc/src/views/templates/login/login_button.html.php",
+		"/C/www/bt-mvc/src/views/views.json",
+		"/C/www/bt-mvc/src/views/templates/login/login_form.html.php",
+		"/C/www/bt-mvc/src/controllers/DefaultController.php",
+		"/C/www/bt-mvc/src/controllers/DisplayMessages.php",
+		"/C/www/bt-mvc/core/lib/components/Message.php",
+		"/C/www/bt-mvc/src/views/templates/lang/lang.html.php",
+		"/C/www/bt-mvc/src/views/templates/message/message.html.php",
+		"/C/www/bt-mvc/core/components.json",
+		"/C/www/bt-mvc/src/views/templates/static/javascript.inc.html.php",
+		"/C/www/bt-mvc/src/views/templates/static/stylesheets.inc.html.php",
+		"/C/www/bt-mvc/src/views/templates/static/block_meta.inc.html",
+		"/C/www/bt-mvc/src/controllers/MessageDisplay.php",
+		"/C/www/bt-mvc/core/lib/components/Language.php",
+		"/C/www/bt-mvc/src/controllers/LangSwitcher.php",
+		"/C/www/bt-mvc/core/lib/components/Route.php",
+		"/C/www/bt-mvc/core/config.inc.php",
+		"/C/www/bt-mvc/resources/translations/messages_lt.l10n",
+		"/C/www/bt-mvc/core/lib/components/Auth.php",
+		"/C/www/bt-mvc/core/lib/components/Response.php",
+		"/C/www/bt-mvc/core/lib/components/Sanitize.php",
+		"/C/www/bt-mvc/src/views/langSwitcher.php",
+		"/C/www/bt-mvc/bt-mvc.sublime-project",
+		"/C/www/bt-mvc/core/lib/components/Request.php",
+		"/C/www/bt-mvc/app.php",
+		"/C/www/bt-mvc/src/models/shared/PageModel.php",
+		"/C/www/bt-mvc/src/views/templates/message.html.php",
+		"/C/www/bt-mvc/src/views/templates/plain/agreement.plain.php",
+		"/C/www/bt-mvc/src/controllers/AgreementController.php",
+		"/C/www/bt-mvc/core/registry.json",
+		"/C/www/bt-mvc/core/lib/components/registry.json",
+		"/C/www/bt-mvc/composer.json",
+		"/C/www/bt-mvc/core/composer.json",
+		"/C/www/bt-mvc/.htaccess",
+		"/C/www/bt-mvc/src/controllers/ApiController.php",
+		"/C/www/bt-mvc/src/controllers/HttpStatusController.php",
+		"/C/www/bt-mvc/src/views/templates/base.plain.php",
+		"/C/www/bt-mvc/curl.php",
+		"/C/www/bt-mvc/src/views/templates/base.xml.php",
+		"/C/www/bt-mvc/index.php",
+		"/C/www/bt-mvc/config.inc.php",
+		"/C/Users/vitalijus/AppData/Roaming/Composer/vendor/autoload.php",
+		"/C/www/bt-mvc/src/models/shared/pageModel.php",
+		"/C/www/bt-mvc/src/controllers/shared/pageController.php",
+		"/C/web-dev/php/7.2-ts/php.ini",
+		"/D/dokumentai/vitalijus/Desktop/pmis.csr",
+		"/C/web-dev/apache/conf/extra/httpd-vhosts.conf",
+		"/C/www/bt-mvc/src/views/templates/static/stylesheets.inc.html",
+		"/C/www/bt-mvc/public/assets.json",
+		"/C/www/bt-mvc/fpc.php",
+		"/C/www/mvc/config.inc.php",
+		"/C/www/mvc/index.php",
+		"/C/www/bt-mvc/Response.php",
+		"/C/www/bt-mvc/DefaultController.php",
+		"/C/www/bt-mvc/stage-2.php",
+		"/C/www/bt-mvc/base.html.php",
+		"/C/www/bt-mvc/base.xml.php",
+		"/C/www/mvc/core/lib/components/Response.php",
+		"/C/www/mvc/.htaccess",
+		"/C/web-dev/apache/conf/httpd.conf",
+		"/C/www/mvc/core/Response.php",
+		"/C/www/mvc/src/controllers/DefaultController.php",
+		"/C/www/mvc/src/controllers/SubmitController.php",
+		"/C/www/mvc/src/views/templates/login/login_form.html.php",
+		"/C/www/mvc/src/views/templates/base.html.php",
+		"/C/www/mvc/geltonuController.php",
+		"/C/www/mvc/DefaultController.php",
+		"/C/www/geltonu/plytu/kelias/.htaccess",
+		"/C/www/geltonu/plytu/kelias/app.php",
+		"/C/web-dev/php/7.2-nts/php.ini",
+		"/C/www/index.php",
+		"/C/web-dev/apache/htdocs/index.html",
+		"/D/dokumentai/vitalijus/Desktop/01-php-programavimo-aplinka.txt",
+		"/C/web-dev/apache/logs/localhost/error.log",
+		"/C/web-dev/apache/logs/error.log",
+		"/C/web-dev/apache/logs/localhost/access.log",
+		"/D/dokumentai/vitalijus/Desktop/php-paskaitos.txt",
+		"/D/dokumentai/vitalijus/Desktop/php-kurso-gaires.txt",
+		"/D/dokumentai/vitalijus/Desktop/01-paskaita-php-programavimo-aplinka.txt",
+		"/D/dokumentai/vitalijus/Desktop/php-kurso-gairės.txt",
+		"/C/Users/vitalijus/AppData/Local/Temp/scp56898/etc/php/5.6/fpm/php.ini.dist",
+		"/C/Users/vitalijus/AppData/Local/Temp/scp44185/etc/php/5.6/fpm/php.ini",
+		"/C/web-dev/php/7.2-ts/php.ini-production",
+		"/C/web-dev/nginx/conf/nginx.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/php-dev/nginx/logs/error.log",
+		"/C/php-dev/nginx/logs/access.log",
+		"/C/php-dev/nginx/conf/fastcgi.conf",
+		"/D/dokumentai/vitalijus/Desktop/helo.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"index",
+			"basePath",
+			"include",
+			"extension=",
+			"zend_",
+			"extension",
+			"extensio",
+			"extension=",
+			"Diegėjas"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.MD",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"auto_name": "## BT-MVC",
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "core/lib/components/Auth.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bt-mvc.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
